@@ -19,10 +19,10 @@ function my_plugin_menu() {
 /** Step 3. */
 function my_plugin_options() {
 	if ( !current_user_can( 'manage_options' ) )  {
-		wp_die( __( 'You do not have sufficient permissions to access this page.' ) );
+		wp_die( __( 'Non hai il permesso per accedere alla pagina.' ) );
 	}
 	echo '<div class="wrap">';
-	echo '<p>Here is where the form would go if I actually had options.</p>';
+	echo '<p>Questo è il punto in cui dovresti inserire il tuo form con le opzioni.</p>';
 	echo '</div>';
 }
 ?>
