@@ -3,8 +3,8 @@
 /*
 Plugin Name: My Plug In Menu 
 Plugin URI: #
-Description: Menu Test
-Author: Mario Bondici
+Description: Questo plug-in aggiunge un sublù-level menu sotto il top-level menu Impostazioni nella schermata amministrativa
+Author: MB
 Author URI: http://example.com
 */
 
